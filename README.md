@@ -1,5 +1,6 @@
 Code in response to interview challenge as part of data analyst application. 
 
+ANSWERS AT: https://docs.google.com/spreadsheets/d/1iQ2mUYHvPzNyVk6ZxS66mNIvC1vPf99L6qQ59ebAq5o/edit#gid=1891262416
 
 Description
 In this case you will find information relating to a SaaS company. Specially the company has been tracking the expenditure of customers (Table 1) and usage and account size data (Table 2).
@@ -34,7 +35,6 @@ Nr of seats
 274354
 11.0
 20
-https://s3-eu-west-1.amazonaws.com/data-analyst-challenge/information_customer.json
 Task
 The first task is to analyze the growth of the company as well as the retention trends of the company. 
 The second task would be to analyze if the company’s growth efforts are being profitable. 
