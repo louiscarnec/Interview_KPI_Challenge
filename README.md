@@ -1,3 +1,6 @@
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ceeb8840af6d4fdd9d3fd28fc998b7f2)](https://app.codacy.com/app/louis_6/Interview_KPI_Challenge?utm_source=github.com&utm_medium=referral&utm_content=louiscarnec/Interview_KPI_Challenge&utm_campaign=badger)
+
 Code in response to interview challenge as part of data analyst application. 
 
 ANSWERS AT: https://docs.google.com/spreadsheets/d/1iQ2mUYHvPzNyVk6ZxS66mNIvC1vPf99L6qQ59ebAq5o/edit#gid=1891262416
