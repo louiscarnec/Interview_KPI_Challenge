@@ -1,7 +1,10 @@
 import pandas as pd
 
-x = pd.read_csv("")
+print 'commit full of issues'
 
-#is this an issues?
+x = pd.thisisnothing
+
+
+is this an issues?
 
 
