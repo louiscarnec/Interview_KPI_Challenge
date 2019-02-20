@@ -17,10 +17,10 @@ for index, value in enumerate(obj):
 # exception
 try:
     1 / 0
+except ZeroDivisionError:
+    print("don't divide numbers by 0!")    
 except Exception:
     print("ex")
-except ZeroDivisionError:
-    print("don't divide numbers by 0!")
 
 # exception
 try:
