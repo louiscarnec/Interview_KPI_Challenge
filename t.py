@@ -12,10 +12,11 @@ for index in range(len(obj)):
 # exception
 try:
     1 / 0
+except ZeroDivisionError:
+    print("don't divide numbers by 0!")    
 except Exception:
     print("exception occurred")
-except ZeroDivisionError:
-    print("don't divide numbers by 0!")
+
 
 
 
